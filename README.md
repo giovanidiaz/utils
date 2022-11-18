@@ -1,6 +1,10 @@
 # utils
 Este repo solo tiene recursos útiles para uso interno.
 
+
+// Que son los Tokens explicación sencilla
+https://www.developerro.com/2019/03/12/jwt-api-authentication/
+
 // Authentication
 Contiene buen ejemplo de uso de Passport con Node.js en manejo de Autenticación.
 https://www.saasbase.dev/building-an-authentication-system-using-passport-js-node-js-and-mongodb-part-1-google-login/
