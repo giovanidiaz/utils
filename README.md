@@ -10,3 +10,15 @@ https://www.saasbase.dev/building-an-authentication-system-using-passport-js-nod
 // Documentación
 Lectura para entender como documentar API
 https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30
+
+
+// Referencias de SaaS
+https://blog.checklyhq.com/how-we-manage-plans-features-in-our-saas-app/
+
+https://blog.checklyhq.com/building-a-multi-tenant-saas-data-model/
+
+//Manejo de API Key entre apps -> https://blog.mergify.com/api-keys-best-practice/
+
+
+// Formatos de Respuestas
+https://github.com/cryptlex/rest-api-response-format
