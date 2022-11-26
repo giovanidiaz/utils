@@ -25,3 +25,6 @@ https://blog.mergify.com/api-keys-best-practice/
 
 # Formatos de Respuestas
 https://github.com/cryptlex/rest-api-response-format
+
+# Tips para mejores apis
+https://es.sensedia.com/post/api-rest-design-7-essential-tips
